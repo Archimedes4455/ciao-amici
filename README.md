@@ -1,2 +1,0 @@
-# ciao-amici
-First repository
